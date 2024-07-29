@@ -1,27 +1,60 @@
-# OrderHandlingWebApp
+# PROJECT OVERVIEW
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+Order handling web app handles everything from receiving the order to delivery and post-delivery customer service relations. Without order management, a business can easily become overwhelmed by orders or struggle to fill them correctly. Thats where the my order handling web application comes in, It is a web application that can be used for inventory purposes basically handling companies orders for easy management and ensures security.
 
-## Development server
+# PROJECT TECHNOLOGY
+1. HTML5 & CSS3
+2. Angular 5+
+3. Spring Boot 2+
+4. Java 8
+5. Typescript
+6. MySQL
+7. Bootstrap
+8. Hibernate
+9. Spring Data JPA
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+# Video clip of how the application works
+https://user-images.githubusercontent.com/62297877/178756354-68e7bc36-493b-4470-96ae-6de92a6e29b3.mp4
 
-## Code scaffolding
+# SCREENSHOTS
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Login Page
+![image](https://user-images.githubusercontent.com/62297877/178722891-8c8a4f11-174b-4190-bc51-637f8cad3d59.png)
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+2. User sign up page
+![image](https://user-images.githubusercontent.com/62297877/178723073-6eb8dedb-6d7f-4368-9c23-2a0035e4a488.png)
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+3.Home page
+![image](https://user-images.githubusercontent.com/62297877/178723259-55d5f832-5ab4-4d5a-879c-11653307b095.png)
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+4. Statistics
+![image](https://user-images.githubusercontent.com/62297877/178723367-174a7f32-52f9-46c4-84bc-bfc59ba247eb.png)
 
-## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+5. Adding orders
+![image](https://user-images.githubusercontent.com/62297877/178723536-9011e0d8-3cac-45f3-834a-ce4cf5dcccc7.png)
+
+
+6. View orders page
+![image](https://user-images.githubusercontent.com/62297877/178723701-b849aa60-f9d4-47a4-8676-675da47f1b9c.png)
+
+
+7. Order Upgrades
+![image](https://user-images.githubusercontent.com/62297877/178723779-28f2638e-9920-4633-9ec5-761386628e4d.png)
+
+
+8. Cancellation of orders
+![image](https://user-images.githubusercontent.com/62297877/178723884-732c61a8-d8b8-41be-8168-4e3f497b3c71.png)
+
+
+9. User Profile
+![image](https://user-images.githubusercontent.com/62297877/178724009-b1133f2e-f1b7-4786-bb50-d400cd1ca724.png)
+
+
+10. Mobile Compatible
+![image](https://user-images.githubusercontent.com/62297877/178724129-431b6368-2efa-40a4-8d7f-627b87c54759.png)
+
+
